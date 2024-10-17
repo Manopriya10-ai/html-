@@ -1,0 +1,22 @@
+<html>
+    <head>
+        <title>my first page</title>
+    </head>
+    <body>
+    <h4 align="right">xyz House,</h4>
+    <h4 align="right">30 Feet road,</h4>
+    <h4 align="right">bandra,</h4>
+    <h4 align="right">Mumbai 400050,</h4>
+    <h4 align="right">1st March 2021.</h4>
+    <h4>Dear Ramesh,</h4>
+    <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;How have you been? I hope you are doing good.What about your family?I hope they are also doing great!Well,I'm writing this letter to ask you why you are not coming to the college for the last four days?</p>
+
+
+       <p>Is everything stable?What's the matter? You are not in college for the last 4 days.I hope you don't have any illness.The class teacher was asking about you.As you know there was practical yesterday and you missed that too.</p>
+        
+        <p>However,the teacher has told us that he will explain that practical once more.He has scheduled it for Monday.I hope till then you will come.And if you are not well then please inform me about your health.I'm waiting for your reply</pre></p>
+    <h6>Kind Regard's</h6>
+    <h6 align="right">Your Faithfully,</h6>
+    <h6 align="right">Azad Khan.</h6>
+    </body>
+</html>
